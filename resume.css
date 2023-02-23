@@ -1,0 +1,37 @@
+h1{
+    color: purple;
+
+}
+#ab1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    background-color:  #DCD8CD;
+    height: 200px;
+}
+#ab1 #img{
+    margin-top: 80px;
+    border-radius: 50%;
+    height: 206px;
+    width: 200px;
+    background-position: center;
+    background-image : url(http://clipart-library.com/images/8c65qGeEi.png);
+}
+.title{
+    text-align: center;
+    margin-top:  90px;
+}
+
+#ab2{
+   
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+
+}
+#cd1, #cd2{
+    
+    height: 600px;
+    width: 50%;
+}
